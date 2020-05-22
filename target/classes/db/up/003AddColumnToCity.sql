@@ -1,0 +1,1 @@
+alter table city add region nchar(50);
